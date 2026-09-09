@@ -1,2 +1,7 @@
 print("hello world")
-print("hello world2")
+
+def nihao():
+    print("你好")
+
+
+nihao()
